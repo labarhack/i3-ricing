@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.vimrc
+# ...even if they are in subdirectories
+!/.config
+!/.config/i3
+!/.config/dunst
+
+!/.config/i3/*
+!.config/dunst/**
+
+!.bashrc
+!.Xresources
