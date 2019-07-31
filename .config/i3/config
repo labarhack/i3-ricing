@@ -18,7 +18,7 @@ font pango:monospace 8
 exec --no-startup-id clipit -d
 exec --no-startup-id feh --bg-fill ~/Pictures/00-Wallpaper/wallpaperbro-153247
 exec --no-startup-id volumeicon
-exec --no-startup-id nm-applet
+#exec --no-startup-id nm-applet
 exec --no-startup-id dunst
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
